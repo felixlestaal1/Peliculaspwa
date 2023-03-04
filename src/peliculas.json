@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "La serpiente",
+        "calificacion": "8.1",
+        "director ": "Josh Wesudo",
+        "actores": "Lexi lore",
+        "fecha": "1 may 2015",
+        "img": "images/uploads/mv11.jpg",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "titulo": "La serpiente",
+        "calificacion ": "8.1",
+        "director ": "Josh Wesudo",
+        "actores": "Amoraunth",
+        "fecha": "1 may 2015",
+        "img": "images/uploads/mv1.jpg",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "titulo": "Largo",
+        "calificacion ": "8.1",
+        "director ": "Josh Wesudo",
+        "actores": "Amoraunth",
+        "fecha": "1 may 2015",
+        "img": "images/uploads/mv2.jpg",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+        "titulo": "MichiTriste",
+        "calificacion ": "8.1",
+        "director ": "Josh Triste",
+        "actores": "Amoraunth",
+        "fecha": "1 may 2015",
+        "img": "images/uploads/mv3.jpg",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    }
+]
